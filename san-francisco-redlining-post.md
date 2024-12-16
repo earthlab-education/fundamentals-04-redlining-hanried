@@ -53,9 +53,7 @@ See full code [here](https://hanried.github.io/earth_data_analytics_assignments/
 
 <img
     src="/notebooks/redlining-plots-images/sf_redlining_ndvi_interactive_plot-static.png"
-    width="15%">
-*View the full interactive plot [here](file:///C:/Users/riede/Documents/Fall%202024%20Earth%20Data%20Analytics%20Class/Redlining%20Coding%20Challenge/notebooks/redlining-plots-images/sf_redlining_ndvi_interactive_plot.html).
-
+    width="75%">
 
 <img
     src="/notebooks/redlining-plots-images/sf_redlining_ndvi_grade_means_df.png"
