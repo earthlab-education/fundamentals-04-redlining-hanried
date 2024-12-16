@@ -51,7 +51,8 @@ See full code [here](https://hanried.github.io/earth_data_analytics_assignments/
 
 ### Plot 2:
 
-<embed type="text/html" src="/notebooks/redlining-plots-images/sf_redlining_ndvi_interactive_plot.html" width="1000" height="600">
+<embed
+    type="text/html" src="/redlining-plots-images/sf_redlining_ndvi_interactive_plot.html" width="1000" height="600">
 
 
 <img
