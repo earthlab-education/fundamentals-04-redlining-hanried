@@ -4,7 +4,7 @@
     <img
         src="/notebooks/redlining-plots-images/san-francisco-holc-scan.jpg"
         alt="Redlining map of San Francisco, California. Mapping Inequality, public domain image."
-        width="25%">
+        width="75%">
     <figcaption>Redlining map of San Francisco, California. Mapping Inequality, public domain image</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ See full code [here](https://hanried.github.io/earth_data_analytics_assignments/
 
 <img
     src="/notebooks/redlining-plots-images/sf-ndvi-redlining-plot.png"
-    width="100%">
+    width="50%">
 
 **This plot shows a map of San Francisco, California showing the boundaries of the redlining zones from 1937 and the Normalized Difference Vegetation Index (NDVI) calculated from multispectral raster data captured via satellite on June 20, 2022.**
 *A higher NDVI indicates healthier vegetation. The areas of high NDVI that stand out on the plot are in the northwest parts of San Francisco and are San Francisco's Golden Gate Park and Presidio (another large park). The high NDVI areas in the southwest corner of the plot are around Lake Merced and are three different Golf Courses. It is also important to note that the northwest corner of the plot, top edge of the plot, and east edge of the plot, are largely showing a very low NDVI because those areas are water. On land, the lowest levels of NDVI can be observed, generally, in the east side of San Francisco where there aren't any redlining boundaries. According to University of Richmond's context description of San Francisco's redlining, the "areas that were truly beyond the pale for residential mortgages were the areas that the HOLC did not survey at all, areas that might be described as "no-lined."" It could be interpreted then, that the "no-lined" areas of San Francisco have the lowest NDVI since they were not invested in by mortgage companies so it could have been more difficult to maintain those areas and keep healthy vegetation alive.*
@@ -57,7 +57,7 @@ See full code [here](https://hanried.github.io/earth_data_analytics_assignments/
 
 <img
     src="/notebooks/redlining-plots-images/sf_redlining_ndvi_grade_means_df.png"
-    width="25%">
+    width="15%">
 
 **This plot includes two subplots: The first subplot on the left shows all of the grades of the redlined zones of San Francisco, CA. Zones with an "A" grade were considered the "Best" and are a dark teal color. Zones with a "D" grade were considered "Hazardous" and are a salmon color. The second subplot on the right shows the average NDVI for each redlined zone in San Francisco, CA. A higher NDVI value, which is a darker green color, indicates healthier vegetation. A lower NDVI value, which is a lighter green color, indicates less or unhealthy vegetation. The DataFrame below the subplots shows the mean NDVI grouped by neighborhood grade. For example, 0.324456 is the mean NDVI for all of the A graded neighborhoods.**
 
@@ -71,11 +71,11 @@ See full code [here](https://hanried.github.io/earth_data_analytics_assignments/
 
 <img
     src="/notebooks/redlining-plots-images/sf_redlining_tree_model.png"
-    width="100%">
+    width="50%">
 
 <img
     src="/notebooks/redlining-plots-images/sf_redlining_tree_model_errors.png"
-    width="100%">
+    width="50%">
 
 **The first figure above shows the tree model created to help determine if NDVI is related to redlining. The plot shows how accurate the tree model is by plotting the error of the tree model: the difference between the actual grade for each neighborhood and what the tree model predicts the grade to be based off the NDVI.**
 
