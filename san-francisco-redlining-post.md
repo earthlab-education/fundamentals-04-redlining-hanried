@@ -51,8 +51,10 @@ See full code [here](https://hanried.github.io/earth_data_analytics_assignments/
 
 ### Plot 2:
 
-<embed
-    type="text/html" src="/redlining-plots-images/sf_redlining_ndvi_interactive_plot.html" width="100%">
+<img
+    src="/notebooks/redlining-plots-images/sf_redlining_ndvi_interactive_plot-static.png"
+    width="15%">
+*View the full interactive plot [here](file:///C:/Users/riede/Documents/Fall%202024%20Earth%20Data%20Analytics%20Class/Redlining%20Coding%20Challenge/notebooks/redlining-plots-images/sf_redlining_ndvi_interactive_plot.html).
 
 
 <img
